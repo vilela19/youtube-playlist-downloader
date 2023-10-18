@@ -7,7 +7,7 @@ Before running the script, make sure you have the following requirements:
 - Python 3.x
 - [pytube](https://pytube.io/en/latest/) library installed (``pip install pytube``)
 
-# Usage
+## Usage
 1. Open a terminal or command prompt.
 2. Navigate to the directory where the script is saved.
 3. Run the script using the following command:
