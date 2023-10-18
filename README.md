@@ -5,7 +5,7 @@ This is a Python script that allows you to download all the videos from a YouTub
 Before running the script, make sure you have the following requirements:
 
 - Python 3.x
-- pytube library installed (``pip install pytube``)
+- [pytube](https://pytube.io/en/latest/) library installed (``pip install pytube``)
 
 # Usage
 1. Open a terminal or command prompt.
