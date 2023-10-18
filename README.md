@@ -1,4 +1,4 @@
-# Playlist Downloader
+# Youtube Playlist Downloader
 This is a Python script that allows you to download all the videos from a YouTube playlist. It uses the pytube library to interact with YouTube and os for file and directory operations.
 
 ## Prerequisites
