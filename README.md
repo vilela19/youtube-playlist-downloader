@@ -17,6 +17,6 @@ python app.py
 ```
 4. Enter the YouTube playlist link when prompted.
 
-## License
-This script is released under the ``MIT License``. 
+> [!WARNING]
+> This script is provided as-is, and the user assumes all responsibility for its usage. Make sure to comply with YouTube terms of service and respect the rights and privacy of others while using this script.
 
