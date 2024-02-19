@@ -1,12 +1,7 @@
 import os
 from pytube import YouTube, Playlist
+from utils.validate_folder_name import validate_folder_name
 
-
-def validate_folder_name(name):
-    invalid_characters = r'\/:*?"<>|'
-    for character in invalid_characters:
-        name = name.replace(character, ' - ')
-    return name
 
 full_path = os.getcwd()
 playlist_url = input("Enter the playlist link: ")
