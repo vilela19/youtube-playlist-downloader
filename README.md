@@ -16,6 +16,6 @@ Before running the script, make sure you have the following requirements:
 3. Run the script using the following command:
 
 ```bash
-python yt-downloader
+python youtube-playlist-downloader
 ```
 4. Enter the YouTube playlist link when prompted.
